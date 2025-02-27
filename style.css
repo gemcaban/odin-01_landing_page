@@ -1,0 +1,19 @@
+/* body{
+  display:flex;
+  flex-direction:column;
+} */
+
+.header{
+  display:flex;
+  justify-content:space-around;
+  align-items:flex-start;
+}
+
+/* ul{
+  display:flex;
+  list-style-type:none;
+}
+
+li{
+  padding-right:8px
+} */
